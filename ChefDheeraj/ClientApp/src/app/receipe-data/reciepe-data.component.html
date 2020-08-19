@@ -1,0 +1,21 @@
+<h1 id="tableLabel">Digital Receipes</h1>
+<p *ngIf="!receipes"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="receipes">
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Level</th>
+      <th>Created Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let receipe of receipes">
+      <td>{{ receipe.id }}</td>
+      <td>{{ receipe.title }}</td>
+      <td>{{ receipe.level }}</td>
+      <td>{{ receipe.createdDate }}</td>
+    </tr>
+  </tbody>
+</table>

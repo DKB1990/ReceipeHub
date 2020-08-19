@@ -1,0 +1,8 @@
+C:\Users\priyanka.jindal\source\repos\ChefDheeraj.Database\bin\Debug\netcoreapp3.1\ChefDheeraj.Database.deps.json
+C:\Users\priyanka.jindal\source\repos\ChefDheeraj.Database\bin\Debug\netcoreapp3.1\ChefDheeraj.Database.dll
+C:\Users\priyanka.jindal\source\repos\ChefDheeraj.Database\obj\Debug\netcoreapp3.1\ChefDheeraj.Database.AssemblyInfoInputs.cache
+C:\Users\priyanka.jindal\source\repos\ChefDheeraj.Database\obj\Debug\netcoreapp3.1\ChefDheeraj.Database.AssemblyInfo.cs
+C:\Users\priyanka.jindal\source\repos\ChefDheeraj.Database\bin\Debug\netcoreapp3.1\ChefDheeraj.Database.pdb
+C:\Users\priyanka.jindal\source\repos\ChefDheeraj.Database\obj\Debug\netcoreapp3.1\ChefDheeraj.Database.csproj.CoreCompileInputs.cache
+C:\Users\priyanka.jindal\source\repos\ChefDheeraj.Database\obj\Debug\netcoreapp3.1\ChefDheeraj.Database.dll
+C:\Users\priyanka.jindal\source\repos\ChefDheeraj.Database\obj\Debug\netcoreapp3.1\ChefDheeraj.Database.pdb
